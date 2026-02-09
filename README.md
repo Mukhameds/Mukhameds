@@ -3,7 +3,7 @@ Mukhamed Satybaev
 System Architect | Founder of ARA  
 Building adaptive AI systems beyond neural networks
 
-I am a system architect and solo founder working on alternative AI architectures.
+I am a system architect and founder working on alternative AI architectures.
 
 My work focuses on signal-based adaptive systems that learn, predict,
 and evolve through internal structure — without neural networks,
